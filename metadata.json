@@ -1,0 +1,6 @@
+{
+  "name": "NaijaGrill & Kitchen - Premium Nigerian Cuisine & Online Ordering",
+  "description": "Premium Nigerian restaurant with online ordering, Paystack checkout, live order tracking, and restaurant management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
